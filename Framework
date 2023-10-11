@@ -6,7 +6,7 @@ What are the steps for forming a specific hypothesis of trading strategy and ste
 """
 Over the scheme of work for developing quant strategies we build and utilise four major components:
 1. Hypothesis formulation and testing - Finding and defining a clearly specified testable strategy
-
+2. Backtesting and optimizing the hypothesis -  Data wrangling, munging, separation, prototyping and building the strategy, backtest, walk forward, analyse the performance
 3. Strategy Automation - Linking to brokerage lines and data pipelines
 4. Risk and Portfolio management - Optimal capital allocation, optimising for bid-ask size spread and more...
 
